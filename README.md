@@ -1,2 +1,4 @@
-# RENTAL-MOTOR
-Jualan rental motor nih bos senggol dong.
+# Go - Jek Jadi jadian
+
+
+Projek pertama gw. (All done solo)
